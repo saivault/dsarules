@@ -5,6 +5,7 @@
 <li>Though traversal means visiting each element, it doesn't always imply moving from start to end in case of linear data strcutures. It may also be from end to the start to solve the task efficiently and more logically.</li>
 
 <li>At times, think from the perspective of STL</li>
+<li>You can't create an unordered map of pairs. It should be an ordered map.</li>
 <li>While performing a remainder operator <code>n % d</code>, make sure that n is not negative, otherwise do <code>(n + CONSTANT*d) % d</code> </li>
 </ul>
 
